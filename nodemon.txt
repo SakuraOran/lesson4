@@ -1,0 +1,27 @@
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node ./bin/www`
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node app.js`
+clean exit - waiting for changes before restart
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node ./bin/www`
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node ./bin/www`
+app crashed - waiting for file changes before starting...
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node ./bin/www`
+v1.4.1
+to restart at any time, enter `rs`
+watching: *.*
+starting `node ./bin/www`
+app crashed - waiting for file changes before starting...
